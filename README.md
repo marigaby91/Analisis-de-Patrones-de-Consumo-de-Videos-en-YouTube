@@ -6,4 +6,5 @@ Conclusiones:
 - Japón tiene poca participación, pero va con las principales tendencias del mercado. 
 
 Tableau Dashboard Link: https://public.tableau.com/app/profile/mar.a.gabriela.gomez/viz/Sprint12-Entrega/DashboardYoutube
+
 Tecnologías: Python, Pandas, Seborn, numpy.
